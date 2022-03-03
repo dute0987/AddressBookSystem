@@ -13,12 +13,12 @@ namespace AddressBookSystem
             //UC1.Address("vishal","Dute","jalamb","shegaon","MH","444303","9146508505","dute0987@gmail.com");
 
             //UC-2-Add new contact
-              UC_2_AddNewContact UC2 = new UC_2_AddNewContact();
-              UC2.NewDetailed();
+            //UC_2_AddNewContact UC2 = new UC_2_AddNewContact();
+            //UC2.NewDetailed();
 
             //UC-3-Edit Data
-            //UC_3_EditData UC3 = new UC_3_EditData();
-            //UC3.DataEdit();
+              UC_3_EditData UC3 = new UC_3_EditData();
+              UC3.DataEdit();
 
 
 
