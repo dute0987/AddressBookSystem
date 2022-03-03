@@ -9,7 +9,7 @@ namespace AddressBookSystem
 
             //UC-1-AddressBookSystem
               UC_1_Contact UC1 = new UC_1_Contact();
-            //UC1.AddressBook();
+              UC1.AddressBook();
               UC1.Address("vishal","Dute","jalamb","shegaon","MH","444303","9146508505","dute0987@gmail.com");
 
             //UC-2-Add new contact
